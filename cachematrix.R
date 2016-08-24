@@ -1,6 +1,6 @@
 ######################################################
 ##                                                  ##
-##  Assignment 2: Caching the Inverse of a Matrix   ##
+##  Assignment 2: Caching the Inverse of a Matrix 	##
 ##                                                  ##
 ######################################################
 
